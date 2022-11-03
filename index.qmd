@@ -1,0 +1,10 @@
+---
+title: "All abdksyed Learnings"
+---
+
+This following are the courses studied(being studied).
+
+[Neural Networks from Scratch](01_NNScratch/index.qmd)
+
+[CS224n - NLP with Deep Leanring](02_CS224n/index.qmd)
+
